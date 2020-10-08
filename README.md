@@ -1,9 +1,9 @@
-Adam Laskowski 
-1081 Boxer Pass Drive 
-Schertz, TX 78154 
-210.882.8180 
-adam.laskowski1127@gmail.com 
-EDUCATION 
+# Adam Laskowski 
+## 1081 Boxer Pass Drive 
+## Schertz, TX 78154 
+## 210.882.8180 
+## adam.laskowski1127@gmail.com 
+## EDUCATION 
 Rawls College of Business, Texas Tech University Lubbock, TX Bachelor of Business Administration in Management Information Systems Graduated December 2018 Telecommunications and Network Management 
 • Cumulative GPA: 3.23 
 • Dean’s List Fall 2014, Fall 2016, Fall 2018 
